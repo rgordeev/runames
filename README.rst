@@ -1,6 +1,9 @@
 runames
 =====
 
+.. image:: https://travis-ci.org/rgordeev/runames.svg?branch=master
+   :target: http://travis-ci.org/rgordeev/runames
+
 Random russians names generator
 
 
