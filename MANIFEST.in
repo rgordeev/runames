@@ -1,0 +1,2 @@
+include *.rst
+include runames/dist.female.ru.last runames/dist.male.ru.last runames/dist.female.ru.first runames/dist.male.ru.first
